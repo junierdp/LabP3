@@ -1664,7 +1664,7 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "WVlsnc4zj14wZMtRi3o/1yOC7DagbOvaExod4TUtpqoZiAspSzNeKbu3V84mkFRFRiBKEAAvJoDavH2xsIbmZg==",
+      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
@@ -2299,7 +2299,7 @@
       ]
     },
     "System.Linq.Expressions/4.1.0": {
-      "sha512": "4cwgjyVgZa0aqmT2iNAb6Aq6Vgt4/qfdLcj9b6t8xKunJCkVEKIlv8pfZgDThG3U3NCimzXa6sC13qrwuDXMLw==",
+      "sha512": "I+y02iqkgmCAyfbqOmSDOgqdZQ5tTj80Akm5BPSS8EeB0VGWdy6X1KCoYe8Pk6pwDoAKZUOdLVxnTJcExiv5zw==",
       "type": "package",
       "path": "system.linq.expressions/4.1.0",
       "files": [
@@ -2381,7 +2381,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "VnltPRCmS++4sgS+XAQ0NfcpOOUFhqbiRwHxE3q+cKTegsUehya+1ZJLMZDN4wkdmr0uP+uYyOxkTeMQFaGVFg==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -2438,7 +2438,7 @@
       ]
     },
     "System.ObjectModel/4.0.12": {
-      "sha512": "aPGrqj4AlhM1qgQ5hiR6prAtpOCJDBiw6q6YVz9f3CIDevaBt/Tt1wA8nLqKianZtGBsNYiQY8wnfU93zd97PQ==",
+      "sha512": "tAgJM1xt3ytyMoW4qn4wIqgJYm7L7TShRZG4+Q4Qsi2PCcj96pXN7nRywS9KkB3p/xDUjc2HSwP9SROyPYDYKQ==",
       "type": "package",
       "path": "system.objectmodel/4.0.12",
       "files": [
@@ -2585,7 +2585,7 @@
       ]
     },
     "System.Reflection.Emit/4.0.1": {
-      "sha512": "HXPdU5BOwkal1IlQt1EVokARICBiwySpFNNyN+2MFISj/TDO0DzFx0VI7Zwd3nP+4nguoz0S/9ynnJnNogcvDQ==",
+      "sha512": "P2wqAj72fFjpP6wb9nSfDqNBMab+2ovzSDzUZK7MVIm54tBJEPr9jWfSjjoTpPwj1LeKcmX3vr0ttyjSSFM47g==",
       "type": "package",
       "path": "system.reflection.emit/4.0.1",
       "files": [
@@ -2615,7 +2615,7 @@
       ]
     },
     "System.Reflection.Emit.ILGeneration/4.0.1": {
-      "sha512": "PZbfnUDZx6FfaLMHPTxI+8eBrPQc+Z2ZYB6Q1QK434uEapherWrljPt6W4cNbAqxdSV8zxRms5uYe8fgeV7qWw==",
+      "sha512": "Ov6dU8Bu15Bc7zuqttgHF12J5lwSWyTf1S+FJouUXVMSqImLZzYaQ+vRr1rQ0OZ0HqsrwWl4dsKHELckQkVpgA==",
       "type": "package",
       "path": "system.reflection.emit.ilgeneration/4.0.1",
       "files": [
@@ -2646,7 +2646,7 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.0.1": {
-      "sha512": "1siJzlCSmIFV/4CshQP5HG/j3GSPVQdgsSvs8oCBh/zQkjw/thSiJFrELwhkWbTeTku4a9KIOMRicbP/8WOVjA==",
+      "sha512": "sSzHHXueZ5Uh0OLpUQprhr+ZYJrLPA2Cmr4gn0wj9+FftNKXx8RIMKvO9qnjk2ebPYUjZ+F2ulGdPOsvj+MEjA==",
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.0.1",
       "files": [
@@ -2677,7 +2677,7 @@
       ]
     },
     "System.Reflection.Extensions/4.0.1": {
-      "sha512": "o/C+Hs5HPOtR00VRi8cSDi6fG1xNuBLyMg24+45k/YuyhBBAfU52zf+EbjpMzqdCxloo8Gy3HTI7FJIRMSzOPg==",
+      "sha512": "GYrtRsZcMuHF3sbmRHfMYpvxZoIN2bQGrYGerUiWLEkqdEUQZhH3TRSaC/oI4wO0II1RKBPlpIa1TOMxIcOOzQ==",
       "type": "package",
       "path": "system.reflection.extensions/4.0.1",
       "files": [
@@ -2787,7 +2787,7 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.1.0": {
-      "sha512": "3tg4Ta1rHYiHqx95UwIIv1XbdhKVfzt8kJoQaRZoXK154qb8pnnhOFI+8Zpg019LwnCtHdup1aE2LfRddfxGZA==",
+      "sha512": "tsQ/ptQ3H5FYfON8lL4MxRk/8kFyE0A+tGPXmVP967cT/gzLHYxIejIYSxp4JmIeFHVP78g/F2FE1mUUTbDtrg==",
       "type": "package",
       "path": "system.reflection.typeextensions/4.1.0",
       "files": [
@@ -3428,23 +3428,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/ofrometa/.nuget/packages/": {},
+    "/Users/JunierDP/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ofrometa/Projects/INTEC.Solution/INTEC.Repository/INTEC.Repository.csproj",
+      "projectUniqueName": "/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Repository/INTEC.Repository.csproj",
       "projectName": "INTEC.Repository",
-      "projectPath": "/Users/ofrometa/Projects/INTEC.Solution/INTEC.Repository/INTEC.Repository.csproj",
-      "packagesPath": "/Users/ofrometa/.nuget/packages/",
-      "outputPath": "/Users/ofrometa/Projects/INTEC.Solution/INTEC.Repository/obj",
+      "projectPath": "/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Repository/INTEC.Repository.csproj",
+      "packagesPath": "/Users/JunierDP/.nuget/packages/",
+      "outputPath": "/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Repository/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/ofrometa/.config/NuGet/NuGet.Config"
+        "/Users/JunierDP/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -3455,11 +3455,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/INTEC.Data.csproj": {
-              "projectPath": "/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/INTEC.Data.csproj"
+            "/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/INTEC.Data.csproj": {
+              "projectPath": "/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/INTEC.Data.csproj"
             },
-            "/Users/ofrometa/Projects/INTEC.Solution/INTEC.Models/INTEC.Models.csproj": {
-              "projectPath": "/Users/ofrometa/Projects/INTEC.Solution/INTEC.Models/INTEC.Models.csproj"
+            "/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Models/INTEC.Models.csproj": {
+              "projectPath": "/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Models/INTEC.Models.csproj"
             }
           }
         }

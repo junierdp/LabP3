@@ -6,3 +6,12 @@
 /Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.AssemblyInfo.cs
 /Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.dll
 /Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.pdb
+/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/bin/Debug/netcoreapp2.0/INTEC.Data.deps.json
+/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/bin/Debug/netcoreapp2.0/INTEC.Data.dll
+/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/bin/Debug/netcoreapp2.0/INTEC.Data.pdb
+/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.csprojResolveAssemblyReference.cache
+/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.csproj.CoreCompileInputs.cache
+/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.AssemblyInfoInputs.cache
+/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.AssemblyInfo.cs
+/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.dll
+/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.pdb

@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/ofrometa/.nuget/packages/": {},
+    "/Users/JunierDP/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/INTEC.Data.csproj",
+      "projectUniqueName": "/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/INTEC.Data.csproj",
       "projectName": "INTEC.Data",
-      "projectPath": "/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/INTEC.Data.csproj",
-      "packagesPath": "/Users/ofrometa/.nuget/packages/",
-      "outputPath": "/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/obj",
+      "projectPath": "/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/INTEC.Data.csproj",
+      "packagesPath": "/Users/JunierDP/.nuget/packages/",
+      "outputPath": "/Users/JunierDP/Desktop/INTEC/PROGRAMACIÓN 3/POO3FebApr2018/INTEC.Data/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/ofrometa/.config/NuGet/NuGet.Config"
+        "/Users/JunierDP/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
