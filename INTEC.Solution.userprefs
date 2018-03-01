@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="INTEC.Data/Infaestructure/DataResult.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="INTEC.Repository/Framework/Repository.cs">
     <Files>
       <File FileName="INTEC.Repository/ApplicationContext.cs" Line="14" Column="13" />
       <File FileName="INTEC.Repository/Framework/IRepository.cs" Line="19" Column="1" />
-      <File FileName="INTEC.Repository/Framework/Repository.cs" Line="90" Column="40" />
+      <File FileName="INTEC.Repository/Framework/Repository.cs" Line="135" Column="16" />
       <File FileName="INTEC.Data/Infaestructure/DataResult.cs" Line="6" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
